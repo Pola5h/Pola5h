@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kamruzzaman Polash</h1>
 <h3 align="center">A noob, learning how to Code.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kzaman3055" alt="kzaman3055" /></a> </p>
+
 
 - 🔭 I’m currently working on [HCMSC](https://github.com/kzaman3055/HCMSC)
 
