@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently working on and learning **Laravel, react, Python**
 
-- 👨‍💻 All of my information are available at [kzaman3055.github.io](kzaman3055.github.io)
+- 👨‍💻 All of my information are available at [my portfolio](http://kzaman3055.github.io)
 
 - 💬 Ask me about **Laravel, Database design**
 
