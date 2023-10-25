@@ -3,7 +3,6 @@
 
 
 
-- 🔭 I’m currently working on **Inventory Management System** & **School Management System**
 - 🌱 I’m currently working on and learning **Laravel, react, Python**
 
 - 👨‍💻 All of my information are available at [my portfolio](http://kzaman3055.github.io)
