@@ -3,11 +3,9 @@
 
 
 
-- 🌱 I’m currently working on and learning **Laravel, react, Python**
+- 👨‍💻 All of my information is available at [my portfolio](http://kzaman3055.github.io)
 
-- 👨‍💻 All of my information are available at [my portfolio](http://kzaman3055.github.io)
-
-- 💬 Ask me about **Laravel, Database design**
+- 💬 Ask me about **Laravel,REST API, Database design**
 
 - 📫 Knock me **kzaman3055@gmail.com**
 
