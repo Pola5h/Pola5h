@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src=" https://camo.githubusercontent.com/e3d1fea4eac3fce0a73c2e788d8dbcb42c28dea93c35b2eb1b014fc2c664e560/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f517670715443694563777476783677774a4b2f67697068792e676966.gif"  />
+  <img height="150" src=" https://camo.githubusercontent.com/e3d1fea4eac3fce0a73c2e788d8dbcb42c28dea93c35b2eb1b014fc2c664e560/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f517670715443694563777476783677774a4b2f67697068792e676966"  />
 </div>
 
 ###
@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  <a href="mailto:kzaman3055@gmail.com" target="_blank">
+<a href="mailto:kzaman3055@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/kzaman3055/" target="_blank">
