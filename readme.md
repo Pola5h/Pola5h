@@ -39,7 +39,7 @@
 ###
 
 <div align="center">
-  <img src="https://www.flaticon.com/free-icon/language_484633?term=language&page=1&position=4&origin=tag&related_id=484633" height="40" alt="go logo"  />
+  <img src="https://github.com/kzaman3055/kzaman3055/blob/main/assets/livewire.svg" height="40" alt="go logo" />
   <img width="12" />
 </div>
 
