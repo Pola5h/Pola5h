@@ -1,8 +1,8 @@
 ###
 <div align="center">
-  <img height="250" src="https://github.com/kzaman3055/kzaman3055/blob/main/assets/hi.jpg"/>
+  <img height="170" src="https://github.com/kzaman3055/kzaman3055/blob/main/assets/hi.jpg"/>
 </div>
-<h1 align="center">hey there 👋, I'm Kamruzzaman Polash</h1>
+<h2 align="center">hey there 👋, I'm Kamruzzaman Polash</h2>
 
 ###
 
