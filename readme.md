@@ -7,12 +7,12 @@
 
 ###
 
-<h3 align="center">A TALL Stack Developer!!</h3>
+<h3 align="center">A TALL Stack Developer!!!</h3>
 
 ###
 
 <div align="center">
-<a href="mailto:kzaman3055@gmail.com" target="_blank">
+<a href="mailto:kzaman3055@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/kzaman3055/" target="_blank">
@@ -21,7 +21,10 @@
   <a href="https://www.hackerrank.com/profile/kzaman3055" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
   </a>
+  <a href="https://www.facebook.com/p0la5h/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+  </a>
+
 </div>
 
 ###
@@ -29,8 +32,9 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
-
-<p align="left">- 🌐 See my portfolio at https://kzaman3055.github.io/<br>- 📚 I'm currently learning Tailwind CSS, Alpine.js, TDD</p>
+  - 🌐 See my portfolio & resume [here](https://kzaman3055.github.io/)
+  - 📚 I'm currently learning Tailwind CSS, Alpine.js, TDD
+  -  📫 How to reach me **kzaman3055@gmail.com**
 
 ###
 
@@ -72,7 +76,9 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+
+<details> 
+  <summary> <h3 align="left">🔥   My Stats :</h3> </summary>
 
 ###
 
@@ -83,3 +89,4 @@
 </div>
 
 ###
+</details> 
