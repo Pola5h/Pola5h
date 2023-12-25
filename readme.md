@@ -72,11 +72,6 @@
 
 
 ###
-
-
-<details> 
-  <summary> <h3 align="left">🔥   My Stats :</h3> </summary>
-
 ###
 
 <div align="center">
@@ -85,4 +80,3 @@
 </div>
 
 ###
-</details> 
