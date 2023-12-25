@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="150" src=" https://camo.githubusercontent.com/e3d1fea4eac3fce0a73c2e788d8dbcb42c28dea93c35b2eb1b014fc2c664e560/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f517670715443694563777476783677774a4b2f67697068792e676966"  />
-</div>
-
 ###
 
 <h1 align="center">hey there 👋, I'm Kamruzzaman Polash</h1>
@@ -38,12 +34,11 @@
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
-  <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="m24 12-5.72 5.746-5.724-5.741 5.724-5.75L24 12zM5.72 6.254 0 12l5.72 5.746h11.44L5.72 6.254z"/></svg>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
   <img width="12" />
-
+  <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="m24 12-5.72 5.746-5.724-5.741 5.724-5.75L24 12zM5.72 6.254 0 12l5.72 5.746h11.44L5.72 6.254z"/></svg>
   <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="m24 12-5.72 5.746-5.724-5.741 5.724-5.75L24 12zM5.72 6.254 0 12l5.72 5.746h11.44L5.72 6.254z"/></svg>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" alt="rust logo"  />
   <img width="12" />
