@@ -42,8 +42,9 @@
 
 ###
 
-<details> 
-  <summary> <h3 align="left">🛠 Language and tools</h3> </summary>
+<h3 align="left">🛠 Language and tools</h3>
+
+###
 <div align="center" style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
     <table>
         <!-- Row 1 -->
@@ -74,7 +75,6 @@
         </tr>
     </table>
 </div>
-</details> 
 
 ###
 <details> 
