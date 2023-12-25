@@ -38,55 +38,37 @@
 
 ###
 
-<div align="center">
-<img src="https://github.com/kzaman3055/kzaman3055/blob/main/assets/1.svg" title="C Language" height="40" />
-<img width="12" />
-<img src="https://github.com/kzaman3055/kzaman3055/blob/main/assets/2.svg" title="C++ Language" height="40" />
-<img width="12" />
-<img src="https://github.com/kzaman3055/kzaman3055/blob/main/assets/3.svg" title="Python Language" height="40" />
-<img width="12" />
-<img src="https://github.com/kzaman3055/kzaman3055/blob/main/assets/4.svg" title="PHP Language" height="40" />
-<img width="12" />
-<img src="https://github.com/kzaman3055/kzaman3055/blob/main/assets/5.svg" title="Laravel Framework" height="40" />
-<img width="12" />
-<img src="https://github.com/kzaman3055/kzaman3055/blob/main/assets/6.svg" title="Livewire" height="40" />
-<img width="12" />
-<img src="https://github.com/kzaman3055/kzaman3055/blob/main/assets/7.svg" title="Tailwind CSS" height="40" />
-<img width="12" />
-<img src="https://github.com/kzaman3055/kzaman3055/blob/main/assets/8.svg" title="Alpine.js" height="40" />
-<img width="12" />
-
-<img src="https://github.com/kzaman3055/kzaman3055/blob/main/assets/9.svg" title="JavaScript" height="40" />
-<img width="12" />
-<img src="https://github.com/kzaman3055/kzaman3055/blob/main/assets/10.svg" title="HTML5" height="40" />
-<img width="12" />
-
-<img src="https://github.com/kzaman3055/kzaman3055/blob/main/assets/11.svg" title="CSS3" height="40" />
-<img width="12" />
-<img src="https://github.com/kzaman3055/kzaman3055/blob/main/assets/12.svg" title="PostMan" height="40" />
-<img width="12" />
-
-<img src="https://github.com/kzaman3055/kzaman3055/blob/main/assets/13.svg" title="WordPress" height="40" />
-<img width="12" />
-<img src="https://github.com/kzaman3055/kzaman3055/blob/main/assets/14.svg" title="Bootstrap" height="40" />
-<img width="12" />
-
-<img src="https://github.com/kzaman3055/kzaman3055/blob/main/assets/15.svg" title="SQLite" height="40" />
-<img width="12" />
-<img src="https://github.com/kzaman3055/kzaman3055/blob/main/assets/16.svg" title="MySQL" height="40" />
-<img width="12" />
-
-<img src="https://github.com/kzaman3055/kzaman3055/blob/main/assets/17.svg" title="VS Code" height="40" />
-<img width="12" />
-<img src="https://github.com/kzaman3055/kzaman3055/blob/main/assets/18.svg" title="Git" height="40" />
-<img width="12" />
-
-<img src="https://github.com/kzaman3055/kzaman3055/blob/main/assets/19.svg" title="cPanel" height="40" />
-<img width="12" />
-<img src="https://github.com/kzaman3055/kzaman3055/blob/main/assets/20.svg" title="Linux" height="40" />
-<img width="12" />
-
+<div align="center" style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
+    <table>
+        <!-- Row 1 -->
+        <tr>
+            <td><img src="https://github.com/kzaman3055/kzaman3055/blob/main/assets/1.svg" title="C Language" height="40" /></td>
+            <td><img src="https://github.com/kzaman3055/kzaman3055/blob/main/assets/2.svg" title="C++ Language" height="40" /></td>
+            <td><img src="https://github.com/kzaman3055/kzaman3055/blob/main/assets/3.svg" title="Python Language" height="40" /></td>
+            <td><img src="https://github.com/kzaman3055/kzaman3055/blob/main/assets/4.svg" title="PHP Language" height="40" /></td>
+            <td><img src="https://github.com/kzaman3055/kzaman3055/blob/main/assets/5.svg" title="Laravel Framework" height="40" /></td>
+            <td><img src="https://github.com/kzaman3055/kzaman3055/blob/main/assets/6.svg" title="Livewire" height="40" /></td>
+            <td><img src="https://github.com/kzaman3055/kzaman3055/blob/main/assets/7.svg" title="Tailwind CSS" height="40" /></td>
+            <td><img src="https://github.com/kzaman3055/kzaman3055/blob/main/assets/8.svg" title="Alpine.js" height="40" /></td>
+            <td><img src="https://github.com/kzaman3055/kzaman3055/blob/main/assets/9.svg" title="JavaScript" height="40" /></td>
+            <td><img src="https://github.com/kzaman3055/kzaman3055/blob/main/assets/10.svg" title="HTML5" height="40" /></td>
+        </tr>
+        <!-- Row 2 -->
+        <tr>
+            <td><img src="https://github.com/kzaman3055/kzaman3055/blob/main/assets/11.svg" title="CSS3" height="40" /></td>
+            <td><img src="https://github.com/kzaman3055/kzaman3055/blob/main/assets/12.svg" title="PostMan" height="40" /></td>
+            <td><img src="https://github.com/kzaman3055/kzaman3055/blob/main/assets/13.svg" title="WordPress" height="40" /></td>
+            <td><img src="https://github.com/kzaman3055/kzaman3055/blob/main/assets/14.svg" title="Bootstrap" height="40" /></td>
+            <td><img src="https://github.com/kzaman3055/kzaman3055/blob/main/assets/15.svg" title="SQLite" height="40" /></td>
+            <td><img src="https://github.com/kzaman3055/kzaman3055/blob/main/assets/16.svg" title="MySQL" height="40" /></td>
+            <td><img src="https://github.com/kzaman3055/kzaman3055/blob/main/assets/17.svg" title="VS Code" height="40" /></td>
+            <td><img src="https://github.com/kzaman3055/kzaman3055/blob/main/assets/18.svg" title="Git" height="40" /></td>
+            <td><img src="https://github.com/kzaman3055/kzaman3055/blob/main/assets/19.svg" title="cPanel" height="40" /></td>
+            <td><img src="https://github.com/kzaman3055/kzaman3055/blob/main/assets/20.svg" title="Linux" height="40" /></td>
+        </tr>
+    </table>
 </div>
+
 
 ###
 
