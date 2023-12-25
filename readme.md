@@ -1,6 +1,6 @@
 ###
 <div align="center">
-  <img height="300" src="https://camo.githubusercontent.com/e3d1fea4eac3fce0a73c2e788d8dbcb42c28dea93c35b2eb1b014fc2c664e560/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f517670715443694563777476783677774a4b2f67697068792e676966"/>
+  <img height="250" src="https://github.com/kzaman3055/kzaman3055/blob/main/assets/hi.jpg"/>
 </div>
 <h1 align="center">hey there 👋, I'm Kamruzzaman Polash</h1>
 
@@ -24,16 +24,23 @@
 </div>
 
 ###
-
 <h3 align="left">👩‍💻  About Me</h3>
+<div align="center" style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
+    <table>
+        <tr>
+            <td> 
+                  <ul> 
+                    <li>🌐 See my portfolio & resume <a href="https://kzaman3055.github.io/" target="_blank">here</a></li>
+                        <li>📚 I'm currently learning Tailwind CSS, Alpine.js, TDD</li>
+                        <li>📫 How to reach me <strong><a href="mailto:kzaman3055@gmail.com">kzaman3055@gmail.com</a></strong></li>
+                    </ul>
+            </td>
+            <td>  <img height="150" src="https://camo.githubusercontent.com/e3d1fea4eac3fce0a73c2e788d8dbcb42c28dea93c35b2eb1b014fc2c664e560/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f517670715443694563777476783677774a4b2f67697068792e676966"/></td>
+        </tr>
+    </table>
+</div>
 
-###
-  - 🌐 See my portfolio & resume [here](https://kzaman3055.github.io/)
-  - 📚 I'm currently learning Tailwind CSS, Alpine.js, TDD
-  -  📫 How to reach me **kzaman3055@gmail.com**
-
-###
-
+                    
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
