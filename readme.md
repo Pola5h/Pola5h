@@ -35,7 +35,7 @@
                         <li>📫 How to reach me <strong><a href="mailto:kzaman3055@gmail.com">kzaman3055@gmail.com</a></strong></li>
                     </ul>
             </td>
-            <td>  <img height="150"  src="https://github.com/kzaman3055/kzaman3055/blob/main/assets/x.gif" title="XD"/></td>
+            <td>  <img height="150"  src="https://github.com/kzaman3055/kzaman3055/blob/main/assets/xd.gif" title="XD"/></td>
         </tr>
     </table>
 </div>
