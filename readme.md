@@ -31,7 +31,7 @@
             <td> 
                   <ul> 
                     <li>🌐 See my portfolio & resume <a href="https://kzaman3055.github.io/" target="_blank">here</a></li>
-                        <li>📚 I'm currently learning Tailwind CSS, Alpine.js, TDD</li>
+                        <li>📚 I'm currently learning Tailwind CSS, Alpine.js, Filament, TDD</li>
                         <li>📫 How to reach me <strong><a href="mailto:kzaman3055@gmail.com">kzaman3055@gmail.com</a></strong></li>
                     </ul>
             </td>
