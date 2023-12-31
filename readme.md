@@ -49,7 +49,6 @@
     <table>
         <!-- Row 1 -->
         <tr>
-            <td><img src="https://github.com/kzaman3055/kzaman3055/blob/main/assets/1.svg" title="C Language" height="40" /></td>
             <td><img src="https://github.com/kzaman3055/kzaman3055/blob/main/assets/2.svg" title="C++ Language" height="40" /></td>
             <td><img src="https://github.com/kzaman3055/kzaman3055/blob/main/assets/3.svg" title="Python Language" height="40" /></td>
             <td><img src="https://github.com/kzaman3055/kzaman3055/blob/main/assets/4.svg" title="PHP Language" height="40" /></td>
@@ -59,6 +58,7 @@
             <td><img src="https://github.com/kzaman3055/kzaman3055/blob/main/assets/8.svg" title="Alpine.js" height="40" /></td>
             <td><img src="https://github.com/kzaman3055/kzaman3055/blob/main/assets/9.svg" title="JavaScript" height="40" /></td>
             <td><img src="https://github.com/kzaman3055/kzaman3055/blob/main/assets/10.svg" title="HTML5" height="40" /></td>
+            <td><img src="https://github.com/kzaman3055/kzaman3055/blob/main/assets/21.svg" title="PHPUnit Test" height="40" /></td>
         </tr>
         <!-- Row 2 -->
         <tr>
