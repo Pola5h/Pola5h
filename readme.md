@@ -32,7 +32,7 @@
                   <ul> 
                     <li>🌐 See my portfolio & resume <a href="https://Pola5h.github.io/" target="_blank">here</a></li>
                         <li>📚 Currently learning Tailwind CSS, Alpine.js, Filament, TDD</li>
-                        <li>📫 How to reach me <strong><a href="mailto:mkz.polash@gmail.com">Pola5h@gmail.com</a></strong></li>
+                        <li>📫 How to reach me <strong><a href="mailto:mkz.polash@gmail.com">mkz.polash@gmail.com</a></strong></li>
                     </ul>
             </td>
             <td>  <img height="150"  src="https://github.com/Pola5h/Pola5h/blob/main/assets/xd.gif" title="XD"/></td>
