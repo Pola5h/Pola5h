@@ -35,7 +35,7 @@
                         <li>📫 How to reach me <strong><a href="mailto:mkz.polash@gmail.com">mkz.polash@gmail.com</a></strong></li>
                     </ul>
             </td>
-            <td>  <img height="150"  src="https://github.com/Pola5h/Pola5h/blob/main/assets/xd.gif" title="XD"/></td>
+            <td>  <img height="150"  src="https://github.com/Pola5h/Pola5h/blob/main/assets/XD.gif" title="XD"/></td>
         </tr>
     </table>
 </div>
