@@ -2,7 +2,7 @@
 <div align="center">
   <img height="210" src="https://github.com/Pola5h/Pola5h/blob/main/assets/hi.jpg" title="Hello Bro!!!"/>
 </div>
-<h2 align="center">hey there 👋, I'm Kamruzzaman Polash</h2>
+<h2 align="center">Hey there 👋, I'm Kamruzzaman Polash</h2>
 
 ###
 
