@@ -77,10 +77,14 @@
 </div>
 
 ###
-<details> 
+<!--<details> 
     <summary> <h3 align="left">🔥 My Github Stats </h3> </summary>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pola5h&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Pola5h&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
-</details>
+</details> -->
+<h3 align="left">🐱 Github Stat </h3>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Pola5h&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
