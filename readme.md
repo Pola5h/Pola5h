@@ -6,7 +6,7 @@
 
 ###
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=24&duration=3000&color=FFFFFF&center=true&vCenter=true&width=800&height=60&lines=A+TALL+Stack+Developer!!!;A+Noob+Coder!!!;A+Fast+Learner!!!;A+Software+Engineer!!!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=24&duration=3000&color=FFFFFF&center=true&vCenter=true&width=800&height=60&lines=A+TALL+Stack+Developer%20!!!;A+Noob+Coder%20!!!;A+Fast+Learner%20!!!;A+Software+Engineer%20!!!" alt="Typing SVG" />
 </div>
 
 
