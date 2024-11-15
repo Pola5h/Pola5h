@@ -86,13 +86,13 @@
   <img src="https://streak-stats.demolab.com?user=Pola5h&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 </details> -->
-<h3 align="left">🐱 Github Stat </h3>
+<!-- <h3 align="left">🐱 Github Stat </h3>
 <div align="center">
-  <!-- For Dark Mode -->
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Pola5h&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3">
-    <!-- For Light Mode -->
+
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=pola5h&theme=swift&hide_border=false" height="150" alt="streak graph">
   </picture>
-</div>
+</div> -->
 
