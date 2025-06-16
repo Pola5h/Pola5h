@@ -27,19 +27,12 @@
 
 ###
 <h3 align="center">👩‍💻  About Me</h3>
-<div align="center" style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
-    <table>
-        <tr>
-            <td> 
-                  <ul> 
-                    <li>🌐 See my portfolio & resume <a href="https://Pola5h.github.io/" target="_blank">here</a></li>
-                        <li>📚 Currently learning Tailwind CSS, Alpine.js, Filament, TDD</li>
-                        <li>📫 How to reach me <strong><a href="mailto:mkz.polash@gmail.com">mkz.polash@gmail.com</a></strong></li>
-                    </ul>
-            </td>
-<!--             <td>  <img height="150"  src="https://github.com/Pola5h/Pola5h/blob/main/assets/XD1.gif" title="XD"/></td> -->
-        </tr>
-    </table>
+<div align="center">
+
+I’m a software engineer who enjoys building web applications, learning new tech, and collaborating with others.  
+Always open for new challenges and connections!  
+📬 Email me: <a href="mailto:mkz.polash@gmail.com">mkz.polash@gmail.com</a>
+
 </div>
 
 ###
