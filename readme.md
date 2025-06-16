@@ -4,10 +4,10 @@
 </div>
 <h2 align="center">Hey there 👋, I'm Kamruzzaman Polash</h2>
 
-###
+<!-- ###
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=24&duration=3000&color=808080&center=true&vCenter=true&width=800&height=60&lines=A+TALL+Stack+Developer%20!!!;A+Noob+Coder%20!!!;A+Fast+Learner%20!!!;A+Software+Engineer%20!!!" alt="Typing SVG" />
-</div>
+</div> -->
 
 
 ###
