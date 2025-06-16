@@ -26,7 +26,7 @@
 </div>
 
 ###
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="center">👩‍💻  About Me</h3>
 <div align="center" style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
     <table>
         <tr>
@@ -44,41 +44,47 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-<div align="center" style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
-    <table>
-        <!-- Row 1 -->
-        <tr>
-            <td><img src="https://github.com/Pola5h/Pola5h/blob/main/assets/2.svg" title="C++ Language" height="40" /></td>
-            <td><img src="https://github.com/Pola5h/Pola5h/blob/main/assets/3.svg" title="Python Language" height="40" /></td>
-            <td><img src="https://github.com/Pola5h/Pola5h/blob/main/assets/4.svg" title="PHP Language" height="40" /></td>
-            <td><img src="https://github.com/Pola5h/Pola5h/blob/main/assets/5.svg" title="Laravel Framework" height="40" /></td>
-            <td><img src="https://github.com/Pola5h/Pola5h/blob/main/assets/6.svg" title="Livewire" height="40" /></td>
-            <td><img src="https://github.com/Pola5h/Pola5h/blob/main/assets/7.svg" title="Tailwind CSS" height="40" /></td>
-            <td><img src="https://github.com/Pola5h/Pola5h/blob/main/assets/8.svg" title="Alpine.js" height="40" /></td>
-            <td><img src="https://github.com/Pola5h/Pola5h/blob/main/assets/9.svg" title="JavaScript" height="40" /></td>
-            <td><img src="https://github.com/Pola5h/Pola5h/blob/main/assets/10.svg" title="HTML5" height="40" /></td>
-            <td><img src="https://github.com/Pola5h/Pola5h/blob/main/assets/21.svg" title="PHPUnit Test" height="40" /></td>
-        </tr>
-        <!-- Row 2 -->
-        <tr>
-            <td><img src="https://github.com/Pola5h/Pola5h/blob/main/assets/11.svg" title="CSS3" height="40" /></td>
-            <td><img src="https://github.com/Pola5h/Pola5h/blob/main/assets/12.svg" title="PostMan" height="40" /></td>
-            <td><img src="https://github.com/Pola5h/Pola5h/blob/main/assets/13.svg" title="WordPress" height="40" /></td>
-            <td><img src="https://github.com/Pola5h/Pola5h/blob/main/assets/14.svg" title="Bootstrap" height="40" /></td>
-            <td><img src="https://github.com/Pola5h/Pola5h/blob/main/assets/15.svg" title="SQLite" height="40" /></td>
-            <td><img src="https://github.com/Pola5h/Pola5h/blob/main/assets/16.svg" title="MySQL" height="40" /></td>
-            <td><img src="https://github.com/Pola5h/Pola5h/blob/main/assets/17.svg" title="VS Code" height="40" /></td>
-            <td><img src="https://github.com/Pola5h/Pola5h/blob/main/assets/18.svg" title="Git" height="40" /></td>
-            <td><img src="https://github.com/Pola5h/Pola5h/blob/main/assets/19.svg" title="cPanel" height="40" /></td>
-            <td><img src="https://github.com/Pola5h/Pola5h/blob/main/assets/20.svg" title="Linux" height="40" /></td>
-        </tr>
-    </table>
+<h3 align="center">🛠 Language and Tools</h3>
+<div align="center">
+  <table>
+    <tr>
+      <th align="left">Category</th>
+      <th align="left">Languages &amp; Tools</th>
+    </tr>
+    <tr>
+      <td><strong>Programming Languages</strong></td>
+      <td>PHP, Python</td>
+    </tr>
+    <tr>
+      <td><strong>Backend Development</strong></td>
+      <td>Laravel, Slim, RESTful API Design, OOP, MVC, PHPUnit</td>
+    </tr>
+    <tr>
+      <td><strong>Databases</strong></td>
+      <td>MySQL, SQLite, Redis</td>
+    </tr>
+    <tr>
+      <td><strong>DevOps &amp; Cloud</strong></td>
+      <td>Docker, Kubernetes, Apache APISIX</td>
+    </tr>
+    <tr>
+      <td><strong>Frontend</strong></td>
+      <td>Blade (Laravel templating), Livewire, Tailwind CSS, Alpine.js, JavaScript, Vue.js</td>
+    </tr>
+    <tr>
+      <td><strong>API Documentation Tools</strong></td>
+      <td>Postman, Postman Collection</td>
+    </tr>
+    <tr>
+      <td><strong>Linux Administration</strong></td>
+      <td>Bash scripting, cron</td>
+    </tr>
+    <tr>
+      <td><strong>Tools &amp; Platforms</strong></td>
+      <td> Git, cPanel, Linux</td>
+    </tr>
+  </table>
 </div>
-
-###
 <!--<details> 
     <summary> <h3 align="left">🔥 My Github Stats </h3> </summary>
 <div align="center">
