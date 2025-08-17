@@ -43,8 +43,8 @@ Always open for new challenges and connections!
 <div align="center">
   <table>
     <tr>
-      <th align="left">Category</th>
-      <th align="left">Languages &amp; Tools</th>
+      <th>Category</th>
+      <th>Languages &amp; Tools</th>
     </tr>
     <tr>
       <td><strong>Programming Languages</strong></td>
