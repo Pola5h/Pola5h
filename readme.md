@@ -1,7 +1,7 @@
 ###
-<div align="center">
+<!-- <div align="center">
   <img height="210" src="https://github.com/Pola5h/Pola5h/blob/main/assets/hi.jpg" title="Hello Bro!!!"/>
-</div>
+</div> -->
 <h2 align="center">Hey there 👋, I'm Kamruzzaman Polash</h2>
 
 <!-- ###
