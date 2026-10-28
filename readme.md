@@ -33,7 +33,7 @@
 
 I’m a software engineer who enjoys building web applications, learning new tech, and collaborating with others.  
 Always open for new challenges and connections!  
-📬 Email me: <a href="mailto:mkz.polash@gmail.com">mkz.polash@gmail.com</a>
+📬 Email me: <a href="mailto:CONNECT.polash@gmail.com">mkz.polash@gmail.com</a>
 
 </div>
 
